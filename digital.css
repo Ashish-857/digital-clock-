@@ -1,0 +1,11 @@
+body{background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTffODeryvDiqgWIznDJMvpA7DzImnqxZc-TVzOCXBqUQ&s);}
+#clock {
+	font-size: 175px;
+	color: rgb(215, 216, 174);
+	width: 900px;
+	margin: 200px;
+	text-align: center;
+	border: 2px solid rgb(236, 222, 18);
+	border-radius: 20px;
+	
+}
